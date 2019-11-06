@@ -1,0 +1,45 @@
+h3 {
+    color: seagreen;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 300px;
+    margin: 5px;
+    padding: 5px 0;
+}
+img {
+    width: 300px ;
+    height: 200px;
+    display: block;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid seagreen 0.5px;
+}
+ul {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+}
+.information {
+    font-family: 'Trocchi', serif;
+    font-size: 13px;
+    text-align: justify;
+    color: seagreen;
+    width: 280px;
+    display: inline-block;
+    margin: 9px;
+    border: solid seagreen 0.5px;
+    padding: 10px;
+}
+
+span {
+    font-weight: bold;
+}
+
+#paper {
+    align-content: center;
+    width: 320px;
+    border: solid seagreen 0.5px;
+    box-shadow: 5px 5px 0px 0px rgb(224, 224, 224);
+}
